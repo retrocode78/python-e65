@@ -1,0 +1,9 @@
+pe65
+====
+
+.. testsetup::
+
+    from pe65 import *
+
+.. automodule:: pe65
+    :members:
