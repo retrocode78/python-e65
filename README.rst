@@ -43,7 +43,7 @@ Installation
 
 You can also install the in-development version with::
 
-    pip install https://github.com/retrocode78/python-e65/archive/master.zip
+    pip install https://github.com/retrocode78/python-e65/archive/main.zip
 
 
 Documentation
