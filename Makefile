@@ -1,5 +1,4 @@
 
-format: src/*/*.py tests/*.py
-	black $^
-
-.PHONY: format
+black_marker: src/*/*.py tests/*.py
+	black $?
+	@touch $@
