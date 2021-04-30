@@ -36,7 +36,7 @@ setup(
     ),
     author='Terrel Shumway',
     author_email='contact@ionelmc.ro',
-    url='https://github.com/retro78/python-pe65',
+    url='https://github.com/retrocode78/python-e65',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
@@ -66,9 +66,9 @@ setup(
         'Topic :: Utilities',
     ],
     project_urls={
-        'Documentation': 'https://python-pe65.readthedocs.io/',
-        'Changelog': 'https://python-pe65.readthedocs.io/en/latest/changelog.html',
-        'Issue Tracker': 'https://github.com/retro78/python-pe65/issues',
+        'Documentation': 'https://python-e65.readthedocs.io/',
+        'Changelog': 'https://python-e65.readthedocs.io/en/latest/changelog.html',
+        'Issue Tracker': 'https://github.com/retrocode78/python-e65/issues',
     },
     keywords=[
         # eg: 'keyword1', 'keyword2', 'keyword3',
